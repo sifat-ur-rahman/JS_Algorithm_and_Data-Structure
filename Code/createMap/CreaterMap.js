@@ -1,3 +1,7 @@
+
+// এমন একটা ফাংশন লেখ যেটাতে একটি string ইনপুট নিবে এবং 
+// ক্যারেক্টার গুলোকে গননা করবে।
+
 function creteCharMap(string) {
     const charMap = {};
     for(let character of string){
